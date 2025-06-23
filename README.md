@@ -20,8 +20,6 @@
 
 ## Contributions and Trackers 🌐
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GUILHERMEABDALLA&bg_color=000&border_color=f1842b&title_color=f1842b&text_color=FFF)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=GuilhermeAbdalla&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 ### 😄 LET'S LEARN TOGETHER! 😄
